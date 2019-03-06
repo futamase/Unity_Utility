@@ -1,0 +1,5 @@
+・Unityイベントの呼ばれる順序
+  1. Awake
+  2. OnEnable
+  3. Start
+  4. Update
